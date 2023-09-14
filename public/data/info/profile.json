@@ -1,0 +1,50 @@
+{
+    "name": "Oliver Schmidt",
+    "profilePictureUrl": "images/pictures/avatar.jpg",
+    "locales": {
+        "en": {
+            "credits": "Website by <strong><a class='light' href='https://github.com/Oschm'>Oliver Schmidt</a></strong>",
+            "role": "Fullstack Entwickler"
+        },
+        "de": {
+            "credits": "Website erstellt von <strong><a class='light' href='https://github.com/Oschm'>Oliver Schmidt</a></strong>",
+            "role": "Fullstack Entwickler"
+        }
+    },
+    "contact": {
+        "address": {
+            "id": "address",
+            "value": "Boschetsriederstraße 57, München, 81379",
+            "valueShort": "München, 81379",
+            "faIcon": "fa-solid fa-city",
+            "href": null
+        },
+        "email": {
+            "id": "email",
+            "value": "schmidt_oli@yahoo.de",
+            "valueShort": "schmidt_oli@yahoo.de",
+            "faIcon": "fa-solid fa-envelope",
+            "href": "mailto:schmidt_oli@yahoo.de"
+        },
+        "github": {
+            "id": "github",
+            "value": "@oschm",
+            "valueShort": "@oschm",
+            "faIcon": "fa-brands fa-github",
+            "href": "https://github.com/OSCHM"
+        },
+        "linkedin":{
+            "id": "linkedin",
+            "value": "@oliver-s-16026711a",
+            "faIcon": "fa-brands fa-linkedin",
+            "href": "https://www.linkedin.com/in/oliver-s-16026711a/"
+        },
+        "phone": {
+            "id": "phone",
+            "value": "+49 (179) 4715693",
+            "valueShort": "(179) 4715693",
+            "faIcon": "fa-solid fa-phone",
+            "href": "tel:+49 179 4715693"
+        }
+    }
+}

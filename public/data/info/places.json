@@ -1,0 +1,41 @@
+{
+    "adobe": {
+        "logoUrl": "images/places/logo-adobe.png",
+        "faIcon": "fa fa-house-laptop",
+        "locales": {
+            "en": {
+                "name": "Adobe Inc."
+            }
+        }
+    },
+    "itelligence": {
+        "logoUrl": "images/places/logo-apple.png",
+        "faIcon": "fab fa-apple",
+        "locales": {
+            "en": {
+                "name": "Apple Inc."
+            }
+        }
+    },
+    "coursera": {
+        "logoUrl": "images/places/logo-coursera.png",
+        "faIcon": "fa fa-house-laptop",
+        "locales": {
+            "en": {
+                "name": "Coursera"
+            }
+        }
+    },
+    "hm": {
+        "logoUrl": "images/places/logo-hm.png",
+        "faIcon": "fas fa-university",
+        "locales": {
+            "de": {
+                "name": "Hochschule für angewandte Wissenschaft München"
+            },
+            "en": {
+                "name": "Universtity for applied science Munich"
+            }
+        }
+    }
+}
