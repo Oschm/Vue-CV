@@ -46,8 +46,8 @@ const isSelected = function (cardIndex) {
 
 .card-row {
   display: flex;
-  justify-content: center;
-  align-items: center;
+  justify-content: left;
+  align-items: left;
   min-width: 780px;
   width: 100%;
   height: 500px;

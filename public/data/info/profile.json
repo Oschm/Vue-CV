@@ -42,7 +42,7 @@
         "phone": {
             "id": "phone",
             "value": "+49 (179) 4715693",
-            "valueShort": "(179) 4715693",
+            "valueShort": "+49 (179) 4715693",
             "faIcon": "fa-solid fa-phone",
             "href": "tel:+49 179 4715693"
         }

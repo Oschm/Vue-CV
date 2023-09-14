@@ -92,7 +92,7 @@
                         },
                         "de": {
                             "title": "Mentoring",
-                            "description": "Weitergabe von Wissen"
+                            "description": "Weitergabe von Wissen."
                         }
                     }
                 },
@@ -107,7 +107,37 @@
                         },
                         "de": {
                             "title": "Googlen",
-                            "description": "Googlen und verfizieren von Internet Ressourcen"
+                            "description": "Googlen und verfizieren von Internet Ressourcen."
+                        }
+                    }
+                },
+                {
+                    "imageIconUrl": null,
+                    "image": "images/pictures/flexibility.jpg",
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "Flexibility",
+                            "description": "Allows me to quickly adapt to changing requirements and challenges, enabling me to work effectively in various situations."
+                        },
+                        "de": {
+                            "title": "Flexibilität",
+                            "description": "Ermöglicht es mir, mich schnell auf wechselnde Anforderungen und Herausforderungen einzustellen und somit effektiv in unterschiedlichen Situationen zu arbeiten."
+                        }
+                    }
+                },
+                {
+                    "imageIconUrl": null,
+                    "image": "images/pictures/detail.jpg",
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "Attention to detail",
+                            "description": "Work with attention to detail."
+                        },
+                        "de": {
+                            "title": "Detailverliebt",
+                            "description": "Arbeiten mit Fokus auf wichtige Details."
                         }
                     }
                 }
