@@ -56,14 +56,6 @@
         },
 
         {
-            "id": "portfolio",
-            "categoryId": "showcase",
-            "component": "GallerySection",
-            "jsonPath": "data/sections/portfolio.json",
-            "faIcon": "fa-solid fa-folder-open"
-        },
-
-        {
             "id": "achievements",
             "categoryId": "showcase",
             "component": "ThreadsSection",
@@ -84,6 +76,14 @@
             "categoryId": "more",
             "component": "ContactSection",
             "jsonPath": "data/sections/contact.json",
+            "faIcon": "fa-solid fa-pen-to-square"
+        },
+
+        {
+            "id": "test",
+            "categoryId": "more",
+            "component": "TestSection",
+            "jsonPath": "data/sections/test.json",
             "faIcon": "fa-solid fa-pen-to-square"
         }
     ]

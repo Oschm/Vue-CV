@@ -17,17 +17,9 @@
             }
         }
     },
-    "coursera": {
-        "logoUrl": "images/places/logo-coursera.png",
-        "faIcon": "fa fa-house-laptop",
-        "locales": {
-            "en": {
-                "name": "Coursera"
-            }
-        }
-    },
     "hm": {
-        "logoUrl": "images/places/logo-hm.png",
+        "logoUrl": "images/places/logo-hm.svg",
+        "IsLogoRound": false,
         "faIcon": "fas fa-university",
         "locales": {
             "de": {
@@ -35,6 +27,19 @@
             },
             "en": {
                 "name": "Universtity for applied science Munich"
+            }
+        }
+    },
+    "gymnasium": {
+        "logoUrl": "images/places/gymnasium.png",
+        "IsLogoRound": true,
+        "faIcon": "fas fa-university",
+        "locales": {
+            "de": {
+                "name": "Willy-Graf-Gymnasium"
+            },
+            "en": {
+                "name": "Willy-Graf High School"
             }
         }
     }

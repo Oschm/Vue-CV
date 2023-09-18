@@ -46,7 +46,7 @@
         },
         {
             "id": "experience_item_4",
-            "place": "@link{places.coursera}",
+            "place": "",
             "period": [
                 "2022/10",
                 "now"
