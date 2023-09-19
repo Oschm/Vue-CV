@@ -1,0 +1,58 @@
+{
+    "locales": {
+        "en": {
+            "title": "<span class='text-primary'>Project</span> Experience",
+            "description": "A look into noticeable projects."
+        },
+        "es": {
+            "title": "<span class='text-primary'>Projekterfahrung</span>",
+            "description": "Eine Übersicht meiner Projekte."
+        }
+    },
+    "items": [
+        {
+            "id": "experience_item_1",
+            "fa-icon": "fa-solid fa-building-columns me-2 ms-2",
+            "period": [
+                "2021/01",
+                "2021/06"
+            ],
+            "locales": {
+                "en": {
+                    "branch": "Mechanical Engineering",
+                    "title": "Implementation of ABAP SD reports for the customer order management.",
+                    "description": "Kommunikation with mutliple Customers about the refinement of Specifiction, Estimation, Implementation and Testing.",
+                    "tech": "ABAP OO, CDS Views, Fiori Launchpad"
+                },
+                "de": {
+                    "branch": "Maschinenbau",
+                    "title": "Implementierung von ABAP-SD-Berichten für die Kundenauftragsverwaltung.",
+                    "description": "Kommunikation mit Kunden über die Verfeinerung von Spezifikation, Schätzung, Implementierung, Testen.",
+                    "tech": "ABAP OO, CDS Views, Fiori Launchpad"
+                }
+            }
+        },
+        {
+            "id": "experience_item_2",
+            "fa-icon": "fa-solid fa-building-columns me-2 ms-2",
+            "period": [
+                "2021/07",
+                "2021/12"
+            ],
+            "locales": {
+                "en": {
+                    "branch": "Finance",
+                    "title": "Maintenance and Extension of SDI-KPI-Projekts.",
+                    "description": "Kommunikation with mutliple Customers about the refinement of Specifiction, Estimation, Implementation and Testing.",
+                    "tech":"SAP HANA, SAP SDI, SAPUI5"
+                },
+                "de": {
+                    "branch": "Finanzwesen",
+                    "title": "Pflege und Erweiterung mehrerer SDI-KPI-Projekte.",
+                    "description": "Kommunikation mit Kunden über die Verfeinerung von Spezifikation, Schätzung, Implementierung, Testen.",
+                    "tech":"SAP HANA, SAP SDI, SAPUI5"
+                }
+            }
+        }
+    ]
+}

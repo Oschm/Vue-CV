@@ -3,7 +3,7 @@
         "en": {
             "about": "About",
             "aboutProject": "About Project",
-            "achievements": "Achievements",
+            "achievements": "Projects",
             "address": "Address",
             "advanced": "Advanced",
             "all": "All",
@@ -32,6 +32,7 @@
             "native": "Native",
             "phone": "Phone",
             "portfolio": "Portfolio",
+            "role": "Role",
             "rookie": "Rookie",
             "sendMessage": "Send Message",
             "sendingMessage": "Sending",
@@ -39,13 +40,14 @@
             "skills": "Skills",
             "subject": "Subject",
             "tags": "Tags",
+            "tech": "Used technologies",
             "whereToFind": "Where to Find",
             "whereToFindDescription": "${project} is available on the following platforms and services:"
         },
         "de": {
             "about": "Home",
             "aboutProject": "Über das Projekt",
-            "achievements": "Erfolge",
+            "achievements": "Projekte",
             "address": "Adresse",
             "advanced": "Fortgeschritten",
             "all": "Alle",
@@ -60,7 +62,7 @@
             "facebook": "Facebook",
             "fluent": "Fließend",
             "github": "Github",
-            "hobbies": "Hobbys",
+            "hobbies": "Hobbies",
             "home": "Startseite",
             "instagram": "Instagram",
             "intermediate": "Medium",
@@ -74,6 +76,7 @@
             "native": "Muttersprache",
             "phone": "Telefon",
             "portfolio": "Portfolio",
+            "role": "Rolle",
             "rookie": "Neuling",
             "sendMessage": "Nachricht senden",
             "sendingMessage": "Senden",
@@ -81,6 +84,7 @@
             "skills": "Fähigkeiten",
             "subject": "Betreff",
             "tags": "Schlagwörter",
+            "tech": "Verwendete Technologien",
             "whereToFind": "Wo finden Sie es",
             "whereToFindDescription": "${project} ist auf den folgenden Plattformen und Diensten verfügbar:"
         }

@@ -57,10 +57,10 @@
 
         {
             "id": "achievements",
-            "categoryId": "showcase",
-            "component": "ThreadsSection",
-            "jsonPath": "data/sections/achievements.json",
-            "faIcon": "fa-solid fa-award"
+            "categoryId": "background",
+            "component": "ProjectSection",
+            "jsonPath": "data/sections/projects.json",
+            "faIcon": "fa-solid fa-diagram-project"
         },
 
         {

@@ -4,17 +4,9 @@
             "title": "<span class='text-primary'>Hobbies</span> & Interests",
             "description": "This is pretty much how I spend my free time:"
         },
-        "es": {
-            "title": "<span class='text-primary'>Pasatiempos</span> e Intereses",
-            "description": "Así es más o menos cómo paso mi tiempo libre:"
-        },
-        "fr": {
-            "title": "<span class='text-primary'>Loisirs</span> et Intérêts",
-            "description": "C'est à peu près ainsi que je passe mon temps libre:"
-        },
-        "zh": {
-            "title": "<span class='text-primary'>爱好</span>与兴趣",
-            "description": "这基本上是我空闲时间的安排："
+        "de": {
+            "title": "<span class='text-primary'>Hobbies</span> und Interessen",
+            "description": "Wie ich meine Freizeit verbringe:"
         }
     },
 

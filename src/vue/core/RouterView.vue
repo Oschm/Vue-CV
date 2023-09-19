@@ -45,6 +45,7 @@ import GallerySection from "../sections/gallery/GallerySection.vue";
 import InfoSection from "../sections/info/InfoSection.vue";
 import ThreadsSection from "../sections/threads/ThreadsSection.vue";
 import TimelineSection from "../sections/timeline/TimelineSection.vue";
+import ProjectSection from "../sections/timeline/ProjectSection.vue";
 import TestSection from "../sections/test/TestSection.vue";
 
 const data = useData();
@@ -68,6 +69,7 @@ const SECTION_VUE_COMPONENTS = {
   ThreadsSection,
   TimelineSection,
   TestSection,
+  ProjectSection,
 };
 
 /**

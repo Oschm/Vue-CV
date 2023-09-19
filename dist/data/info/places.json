@@ -1,15 +1,26 @@
 {
-    "adobe": {
-        "logoUrl": "images/places/logo-adobe.png",
+    "ibsolution": {
+        "logoUrl": "images/places/logo-ibsolution.png",
+        "IsLogoRound": false,
         "faIcon": "fa fa-house-laptop",
         "locales": {
             "en": {
-                "name": "Adobe Inc."
+                "name": "IBsolution GmbH"
+            }
+        }
+    },
+    "big_cube": {
+        "logoUrl": "images/places/logo-bigcube.svg",
+        "IsLogoRound": true,
+        "faIcon": "fa fa-house-laptop",
+        "locales": {
+            "en": {
+                "name": "Big Cube GmbH"
             }
         }
     },
     "itelligence": {
-        "logoUrl": "images/places/logo-apple.png",
+        "logoUrl": "images/places/logo-itelligence.webp",
         "faIcon": "fab fa-apple",
         "locales": {
             "en": {

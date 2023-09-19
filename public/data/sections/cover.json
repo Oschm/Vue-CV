@@ -122,7 +122,7 @@
                         },
                         "de": {
                             "title": "Flexibilität",
-                            "description": "Ermöglicht es mir, mich schnell auf wechselnde Anforderungen und Herausforderungen einzustellen."
+                            "description": "Ermöglicht es mir, mich schnell auf wechselnde Anforderungen einzustellen."
                         }
                     }
                 },
@@ -180,11 +180,11 @@
                     "locales": {
                         "en": {
                             "title": "Databases",
-                            "description": "Relationale and NO-SQL Datenbanken"
+                            "description": "Relationale and NO-SQL Datenbanken."
                         },
                         "de": {
                             "title": "Datenbanken",
-                            "description": "Relational und No-SQL Datenbanken"
+                            "description": "Relational und No-SQL Datenbanken."
                         }
                     }
                 },
@@ -210,11 +210,11 @@
                     "locales": {
                         "en": {
                             "title": "Continuous integration and continuous delivery.",
-                            "description": "Experience with CI/CD pipelines"
+                            "description": "Experience with CI/CD pipelines."
                         },
                         "de": {
                             "title": "Continuous integration und continuous delivery.",
-                            "description": "Erfahrung mit CI/CD Pipelines"
+                            "description": "Erfahrung mit CI/CD Pipelines."
                         }
                     }
                 }

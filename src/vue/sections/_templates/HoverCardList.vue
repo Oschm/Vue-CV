@@ -46,9 +46,9 @@ const isSelected = function (cardIndex) {
 
 .card-row {
   display: flex;
+  flex-wrap: wrap; /* Allow cards to wrap to the next row */
   justify-content: left;
   align-items: left;
-  min-width: 780px;
   width: 100%;
   height: 500px;
 }
@@ -62,6 +62,7 @@ const isSelected = function (cardIndex) {
   box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.5);
   transition: height 0.3s, box-shadow 0.3s;
 }
+
 .card:hover {
   height: 410px;
   box-shadow: 20px 20px 40px 0px rgba(0, 0, 0, 0.5);

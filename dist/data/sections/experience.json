@@ -5,68 +5,80 @@
             "description": "A look into my work experience and career journey."
         },
         "es": {
-            "title": "<span class='text-primary'>Experiencia</span> Profesional",
-            "description": "Un vistazo a mi experiencia laboral y trayectoria profesional."
-        },
-        "fr": {
-            "title": "Expérience <span class='text-primary'>Professionnelle</span>",
-            "description": "Un aperçu de mon expérience professionnelle et de mon parcours de carrière."
-        },
-        "zh": {
-            "title": "<span class='text-primary'>专业</span> 经验",
-            "description": "了解我的工作经验和职业之旅。"
+            "title": "<span class='text-primary'>Berufserfahrung</span>",
+            "description": "Eine Übersicht meiner Berufserfahrung."
         }
     },
     "items": [
         {
-            "id": "experience_item_2",
-            "place": "@link{places.adobe}",
+            "id": "experience_item_4",
+            "place": "@link{places.ibsolution}",
             "period": [
-                "2018/01",
-                "2020/08"
+                "2016/12",
+                "2017/06"
             ],
             "locales": {
                 "en": {
-                    "title": "Senior UI/UX Designer",
-                    "description": "Led design projects, conducted comprehensive user research, and utilized data-driven insights to enhance user experiences. Managed design teams, fostering creativity and innovation while implementing design best practices to deliver successful outcomes for various digital products."
+                    "title": "SAP Junior Consultant",
+                    "description": "Working in the 'Digitalization and Innovation' team, primarily focusing on developments on the SAP Cloud Platform and HANA Native Development. Specializes in SAPUI5, XSJS, and HANA modeling. Participated in a three-month internal 'Consultant Training' course covering the fundamentals of time management and business etiquette."
                 },
-                "es": {
-                    "title": "Designer Senior UI/UX",
-                    "description": "Lideré proyectos de diseño, realicé investigaciones exhaustivas sobre usuarios y utilicé información basada en datos para mejorar las experiencias de usuario. Gestioné equipos de diseño, fomentando la creatividad y la innovación al tiempo que implementaba las mejores prácticas de diseño para obtener resultados exitosos en diversos productos digitales."
-                },
-                "fr": {
-                    "title": "Designer UI/UX Senior",
-                    "description": "A piloté les initiatives UX en supervisant une équipe de concepteurs, en élaborant des stratégies de conception et en dirigeant des collaborations interfonctionnelles avec les responsables de produits, les ingénieurs et les cadres. Axé sur la création de designs centrés sur l'utilisateur alignés sur les objectifs commerciaux et aboutissant à une satisfaction accrue des utilisateurs."
-                },
-                "zh": {
-                    "title": "高级UI/UX设计师",
-                    "description": "领导设计项目，进行全面的用户研究，利用数据驱动的见解提升用户体验。管理设计团队，培养创意和创新，同时实施设计最佳实践，为各种数字产品交付成功的结果。"
+                "de": {
+                    "title": "SAP Junior Berater",
+                    "description": "Arbeitet im Team Digitalisierung und Innovation”, dass sich haupts ̈achlich mit Entwicklungen auf der SAP Cloud Platform und HANA Native Development besch ̈aftigt. Spezialisierung auf SAPUI5, XSJS und HANA-Modellierung. Teilnahme an einem dreimonatigen internen ”Beraterkurs”, der die Grundlagen des Zeitmanagements und der Business-Etikette vermittelt."
                 }
             }
         },
         {
-            "id": "experience_item_4",
-            "place": "",
+            "id": "experience_item_3",
+            "place": "@link{places.ibsolution}",
             "period": [
-                "2022/10",
-                "now"
+                "2017/06",
+                "2020/12"
             ],
             "locales": {
                 "en": {
-                    "title": "UX Design Full-Time Professor",
-                    "description": "Leveraged my expertise in UX design to educate and inspire students in the art of user-centered design principles. Conducted user studies, analyzed data, and guided students in applying theoretical knowledge to practical projects, empowering the next generation of UX designers."
+                    "title": "SAP Consultant",
+                    "description": "Working on multiple projects in the fields of aviation, healthcare, and agriculture. Creating and delivering customer training for HANA Native Development and HANA Security."
                 },
-                "es": {
-                    "title": "Profesor de Tiempo Completo en UX Design",
-                    "description": "Utilicé mi experiencia en diseño UX para educar e inspirar a los estudiantes en el arte de los principios de diseño centrado en el usuario. Realicé estudios de usuarios, analicé datos y orienté a los estudiantes en la aplicación de conocimientos teóricos a proyectos prácticos, empoderando a la próxima generación de diseñadores UX."
+                "de": {
+                    "title": "SAP Berater",
+                    "description": "Arbeit an mehreren Projekten in den Bereichen Luftfahrt, Gesundheit und Landwirtschaft. Erstellung und Präsentation von Kundenschulungen für HANA Native Development und HANA Security."
+                }
+            }
+        },
+        {
+            "id": "experience_item_1",
+            "place": "@link{places.itelligence}",
+            "period": [
+                "2021/01",
+                "2021/06"
+            ],
+            "locales": {
+                "en": {
+                    "title": "SAP Consultant",
+                    "description": "Working on multiple ABAP Projects in the SD Field and HANA-Migrationprojects (XS to XSA)."
                 },
-                "fr": {
-                    "title": "Professeur à temps plein en UX Design",
-                    "description": "J'ai mis à profit mon expertise en conception UX pour éduquer et inspirer les étudiants dans l'art des principes de conception centrés sur l'utilisateur. J'ai réalisé des études utilisateur, analysé des données et guidé les étudiants dans l'application des connaissances théoriques à des projets pratiques, donnant ainsi les moyens à la prochaine génération de concepteurs UX."
+                "de": {
+                    "title": "SAP Berater",
+                    "description": "Arbeit an mehreren Projekten im SD-Umfeld und HANA-Migrationsprojekten (XS zu XSA)."
+                }
+            }
+        },
+        {
+            "id": "experience_item_2",
+            "place": "@link{places.big_cube}",
+            "period": [
+                "2021/07",
+                "2021/12"
+            ],
+            "locales": {
+                "en": {
+                    "title": "SAP Senior Consultant",
+                    "description": "Maintaining and expanding multiple HANA projects with Smart Data Integration, native HANA Modeling Tools, and SAPUI5."
                 },
-                "zh": {
-                    "title": "全职用户体验设计教授",
-                    "description": "利用我的用户体验设计专业知识，教育和激励学生学习以用户为中心的设计原则。进行用户研究，分析数据，并指导学生将理论知识应用于实际项目，培养下一代用户体验设计师。"
+                "de": {
+                    "title": "SAP Senior Berater",
+                    "description": "Pflege und Erweiterung mehrerer HANA-Projekte mit Smart Data Integration, nativen HANA Modeling Tools und SAPUI5."
                 }
             }
         }
