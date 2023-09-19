@@ -1,0 +1,50 @@
+{
+    "locales": {
+        "en": {
+            "title": "<span class='text-primary'>Educational</span> Background",
+            "description": "A glimpse into my academic trajectory and accomplishments."
+        },
+        "de": {
+            "title": "<span class='text-primary'>Ausbildung</span>",
+            "description": "Eine Übersicht über meine Schul- und Hochschullaufbahn."
+        }
+    },
+    "items": [
+        {
+            "id": "gymnasium",
+            "place": "@link{places.gymnasium}",
+            "period": [
+                "2002/09",
+                "2011/04"
+            ],
+            "locales": {
+                "en": {
+                    "title": "A-levels at Willy-Graf-Gymnasium",
+                    "description": "High school with elective courses in Mathematics and Physics, and European branch."
+                },
+                "de": {
+                    "title": "Abitur am Willy-Graf-Gymnasium",
+                    "description": "Gymnasium mit Wahlfächern Mahte und Physik und Europäischer Zweig."
+                }
+            }
+        },
+        {
+            "id": "bachelor_hm",
+            "place": "@link{places.hm}",
+            "period": [
+                "2012/04",
+                "2016/12"
+            ],
+            "locales": {
+                "en": {
+                    "title": "Bachelor's in Business Informatics",
+                    "description": "Graduated with a solid foundation in Software Engineering, IT Knowledge and Project management experience."
+                },
+                "de": {
+                    "title": "Bachelor in Wirtschaftinformatik (Note 1.8)",
+                    "description": "Informatik-Abschluss mit fundierten Kenntnissen in Softwareentwicklung, IT-Wissen und Erfahrung im Projektmanagement."
+                }
+            }
+        }
+    ]
+}

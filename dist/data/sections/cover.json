@@ -1,0 +1,224 @@
+{
+    "locales": {
+        "en": {
+            "welcome": "Welcome to my <span class='text-primary'>Resume!</span>",
+            "welcomeShort": "Welcome!",
+            "bio": "5 Years of Experience as Full Stack developer and consultant give me the knowledge to contribute to the success of your Enterprise."
+        },
+        "de": {
+            "welcome": "Willkommen zu meinem <span class='text-primary'>Lebenslauf!</span>",
+            "welcomeShort": "Willkommen!",
+            "bio": "5 Jahre Erfahrung als Full-Stack Entwickler und Berater geben mir das Wissen um zum Erfolg Ihres Unternehmens beizutragen."
+        }
+    },
+    "items": {
+        "socialCircles": [
+            "@link{profile.contact.github}",
+            "@link{profile.contact.linkedin}"
+        ],
+        "contactListItems": [
+            "@link{profile.contact.address}",
+            "@link{profile.contact.email}",
+            "@link{profile.contact.phone}"
+        ]
+    },
+    "skillsOverview": {
+        "locales": {
+            "en": {
+                "title": "<span class='text-primary'>Skill</span> Set",
+                "description": "Exploring the diverse range of skills I've acquired and developed. More detailed List in Skills category."
+            },
+            "de": {
+                "title": "<span class='text-primary'>Skills</span>",
+                "description": "Übersicht über Skills die ich im Laufe meiner Karriere gesammelt habe. Detaillierte List in der Skills Kategorie. "
+            }
+        },
+        "subcategories": [
+            {
+                "id": "techskills",
+                "type": "list",
+                "progress": null,
+                "faIcon": "fa-solid fa-microchip",
+                "locales": {
+                    "en": {
+                        "title": "Technical Skills"
+                    },
+                    "de": {
+                        "title": "Technische Skills"
+                    }
+                }
+            },
+            {
+                "id": "softskills",
+                "type": "list",
+                "progress": null,
+                "faIcon": "fa-solid fa-comment",
+                "locales": {
+                    "en": {
+                        "title": "Softskills"
+                    },
+                    "de": {
+                        "title": "Softskills"
+                    }
+                }
+            }
+            
+        ],
+        "items": {
+            "softskills": [
+                {
+                    "imageIconUrl": null,
+                    "image": "images/pictures/teamwork.jpg",
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "Teamplayer",
+                            "description": "Works well in a team in any position."
+                        },
+                        "de": {
+                            "title": "Teamfähigkeit",
+                            "description": "Arbeitet in jeder position eines Teams."
+                        }
+                    }
+                },
+                {
+                    "imageIconUrl": null,
+                    "image": "images/pictures/mentoring.jpg",
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "Mentoring",
+                            "description": "Spreads knowledge and mentors collegues."
+                        },
+                        "de": {
+                            "title": "Mentoring",
+                            "description": "Weitergabe von Wissen."
+                        }
+                    }
+                },
+                {
+                    "imageIconUrl": null,
+                    "image": "images/pictures/google.jpg",
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "Googling",
+                            "description": "Googling and verification of online sources."
+                        },
+                        "de": {
+                            "title": "Googlen",
+                            "description": "Googlen und verfizieren von Internet Ressourcen."
+                        }
+                    }
+                },
+                {
+                    "imageIconUrl": null,
+                    "image": "images/pictures/flexibility.jpg",
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "Flexibility",
+                            "description": "Allows me to quickly adapt to changing requirements and challenges."
+                        },
+                        "de": {
+                            "title": "Flexibilität",
+                            "description": "Ermöglicht es mir, mich schnell auf wechselnde Anforderungen und Herausforderungen einzustellen."
+                        }
+                    }
+                },
+                {
+                    "imageIconUrl": null,
+                    "image": "images/pictures/detail.jpg",
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "Attention to detail",
+                            "description": "Work with attention to detail."
+                        },
+                        "de": {
+                            "title": "Detailverliebt",
+                            "description": "Arbeiten mit Fokus auf wichtige Details."
+                        }
+                    }
+                }
+            ],
+            "techskills": [
+                {
+                    "imageIconUrl": null,
+                    "image": "images/pictures/backend.jpg",
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "Backened",
+                            "description": "Worked with Open Source and SAP Backend Technologies."
+                        },
+                        "de": {
+                            "title": "Backened",
+                            "description": "Erfahrung mit Open Source und SAP Backend Technologien."
+                        }
+                    }
+                },
+                {
+                    "imageIconUrl": null,
+                    "image": "images/pictures/frontend.jpg",
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "Frontend",
+                            "description": "Frontend Technologies like Vue.js, SAPUI5 and Angular."
+                        },
+                        "de": {
+                            "title": "Frontend",
+                            "description": "Frontend Technologies wie Vue.js, SAPUI5 and Angular."
+                        }
+                    }
+                },
+                {
+                    "imageIconUrl": null,
+                    "image": "images/pictures/databases.jpg",
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "Databases",
+                            "description": "Relationale and NO-SQL Datenbanken"
+                        },
+                        "de": {
+                            "title": "Datenbanken",
+                            "description": "Relational und No-SQL Datenbanken"
+                        }
+                    }
+                },
+                {
+                    "imageIconUrl": null,
+                    "image": "images/pictures/cloud.jpg",
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "Cloud Platforms",
+                            "description": "Experience with the Setup, Maintenance und Developments on Cloud Platforms."
+                        },
+                        "de": {
+                            "title": "Cloud Platformen",
+                            "description": "Erfahrung mit dem Setup, Maintenance und Entwicklung auf Cloud Platformen."
+                        }
+                    }
+                },
+                {
+                    "imageIconUrl": null,
+                    "image": "images/pictures/ci-co.jpg",
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "Continuous integration and continuous delivery",
+                            "description": "Experience with CI/CO pipelines"
+                        },
+                        "de": {
+                            "title": "Continuous integration und continuous delivery",
+                            "description": "Erfahrung mit CI/CO Pipelines"
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "adobe": {
+        "logoUrl": "images/places/logo-adobe.png",
+        "faIcon": "fa fa-house-laptop",
+        "locales": {
+            "en": {
+                "name": "Adobe Inc."
+            }
+        }
+    },
+    "itelligence": {
+        "logoUrl": "images/places/logo-apple.png",
+        "faIcon": "fab fa-apple",
+        "locales": {
+            "en": {
+                "name": "Apple Inc."
+            }
+        }
+    },
+    "hm": {
+        "logoUrl": "images/places/logo-hm.svg",
+        "IsLogoRound": false,
+        "faIcon": "fas fa-university",
+        "locales": {
+            "de": {
+                "name": "Hochschule für angewandte Wissenschaft München"
+            },
+            "en": {
+                "name": "Universtity for applied science Munich"
+            }
+        }
+    },
+    "gymnasium": {
+        "logoUrl": "images/places/gymnasium.png",
+        "IsLogoRound": true,
+        "faIcon": "fas fa-university",
+        "locales": {
+            "de": {
+                "name": "Willy-Graf-Gymnasium"
+            },
+            "en": {
+                "name": "Willy-Graf High School"
+            }
+        }
+    }
+}

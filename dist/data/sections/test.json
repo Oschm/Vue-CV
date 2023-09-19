@@ -1,0 +1,16 @@
+{
+    "locales": {
+        "en": {
+            "title": "<span class='text-primary'>Test</span> ",
+            "description": "Please don't hesitate to get in touch with me whenever you feel the need!",
+            "subtitle": "Or...",
+            "subtitleDescription": "If you prefer, you can reach out to me through the following options:"
+        },
+        "de": {
+            "title": "<span class='text-primary'>Test</span>",
+            "description": "¡Por favor, no dudes en ponerte en contacto conmigo siempre que lo necesites!",
+            "subtitle": "O...",
+            "subtitleDescription": "Si prefieres, puedes ponerte en contacto conmigo a través de las siguientes opciones:"
+        }
+    }
+}

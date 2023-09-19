@@ -1,0 +1,289 @@
+{
+    "locales": {
+        "en": {
+            "title": "<span class='text-primary'>Skill</span> Set",
+            "description": "Exploring the diverse range of skills I've acquired and developed:"
+        },
+        "de": {
+            "title": "Sammlung von <span class='text-primary'>Fähigkeiten</span>",
+            "description": "Erkunden der Vielfalt an Fähigkeiten, die ich erworben und entwickelt habe:"
+            }
+    },
+
+    "subcategories": [
+        {
+            "id": "abilities",
+            "type": "list",
+            "progress": null,
+            "faIcon": "fa-solid fa-square",
+            "locales": {
+                "en": {"title": null}
+            }
+        },
+
+        {
+            "id": "programming",
+            "type": "grid",
+            "progress": "number",
+            "faIcon": "fa fa-code",
+            "locales": {
+                "en": {"title": "Programming"},
+                "de": {"title": "Programmieren"}
+            }
+        },
+
+        {
+            "id": "languages",
+            "type": "list",
+            "progress": {"0": "beginner", "20": "rookie", "40": "intermediate", "60": "advanced", "80": "fluent", "100": "native"},
+            "faIcon": "fa fa-language",
+            "locales": {
+                "en": {"title": "Languages"},
+                "de": {"title": "Sprachen"}
+            }
+        },
+
+        {
+            "id": "extra",
+            "type": "grid",
+            "progress": null,
+            "faIcon": "fa fa-marker",
+            "locales": {
+                "en": {"title": "Bonus Skills"},
+                "de": {"title": "Bonus Skills"}
+            }
+        }
+    ],
+
+    "items": {
+        "abilities": [
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-code",
+                "value": null,
+                "locales": {
+                    "en": {
+                        "title": "Back-End Development",
+                        "description": "Rich Experience working with and creating APIs, Databases and business logic."
+                    },
+                    "de": {
+                        "title": "Back-End Development",
+                        "description": "Reicher Erfahrungsschatz mit APIs, Datenbanken und Ímplementierung von Businesslogik."
+                    }
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-code",
+                "value": null,
+                "locales": {
+                    "en": {
+                        "title": "Front-End Development",
+                        "description": "Highly skilled at creating intuitive User Experiences using SAPUI5 und Vue.js."
+                    },
+                    "de": {
+                        "title": "Front-End Entwicklung",
+                        "description": "Hochqualifiziert in der Erstellung intuitiver Benutzererfahrungen mit SAPUI5 und Vue.js."
+                    }
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-cloud",
+                "value": null,
+                "locales": {
+                    "en": {
+                        "title": "Cloud Development",
+                        "description": "Management of Cloud Platforms and development of cloud-based Apps."
+                    },
+                    "de": {
+                        "title": "Cloud Development",
+                        "description": "Management von Cloud Platformen und Entwicklungen Cloud-basierter Anwendungen."
+                    }
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-wand-magic",
+                "value": null,
+                "locales": {
+                    "en": {
+                        "title": "DevOps",
+                        "description": "Experiences with Devops und CI/CD for an automated devlopment process and less complex developments."
+                    },
+                    "de": {
+                        "title": "DevOps",
+                        "description": "Erfahrung mit Devops und CI/CD für eine automatisierte Entwicklungsumgebung und weniger Aufwand."
+                    }
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-expand-arrows-alt",
+                "value": null,
+                "locales": {
+                    "en": {
+                        "title": "Interaction Design",
+                        "description": "Proficient in creating intuitive and seamless interactions for user-friendly experiences, harmonizing aesthetics and usability."
+                    },
+                    "de": {
+                        "title": "UX Design",
+                        "description": "Kompetent beim Erstellen von intuitiven User Erfahrungen."
+                    }
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-laptop-code",
+                "value": null,
+                "locales": {
+                    "en": {
+                        "title": "Prototyping",
+                        "description": "Skilled in translating concepts into interactive prototypes for testing and refinement, ensuring functional and engaging end products."
+                    },
+                    "de": {
+                        "title": "Prototyping",
+                        "description": "Kompetent darin, Konzepte in interaktive Prototypen zur Prüfung und Verfeinerung zu übersetzen, um funktionale und ansprechende Endprodukte zu gewährleisten."
+                    }
+                }
+            }
+        ],
+
+        "programming": [
+            {
+                "imageIconUrl": null,
+                "faIcon": "fab fa-html5",
+                "value": 90,
+                "locales": {
+                    "en": {"title": "HTML 5", "description": "Experience Time: 6 years"},
+                    "de": {"title": "HTML 5", "description": "Erfahrung: 6 Jahre"}
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fab fa-js-square",
+                "value": 85,
+                "locales": {
+                    "en": {"title": "JavaScript", "description": "Experience Time: 6 years"},
+                    "de": {"title": "JavaScript", "description": "Erfahrung: 6 Jahre"}
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": "fab fa-js-square",
+                "value": 80,
+                "locales": {
+                    "en": {"title": "NodeJS", "description": "Experience Time: 4 years"},
+                    "de": {"title": "NodeJS", "description": "Erfahrung: 4 Jahre"}
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fa-solid fa-database",
+                "value": 90,
+                "locales": {
+                    "en": {"title": "Relational Databases", "description": "Experience Time: 6 years"},
+                    "de": {"title": "Relationale Datenbanken", "description": "Erfahrung: 6 Jahre"}
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fab fa-sass",
+                "value": 65,
+                "locales": {
+                    "en": {"title": "Sass/Less", "description": "Experience Time: 2 years"},
+                    "de": {"title": "Sass/Less", "description": "Erfahrung: 2 Jahre"}
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fa-solid fa-robot",
+                "value": 30,
+                "locales": {
+                    "en": {"title": "Machine Learning", "description": "Machine Learning Online Course: 1 year"},
+                    "de": {"title": "Machine Learning", "description": "Machine Learning Online Kurs: 1 Jahr"}
+                }
+            }
+        ],
+
+        "languages": [
+            {
+                "imageIconUrl": "images/flags/de.png",
+                "faIcon": null,
+                "value": 100,
+                "locales": {
+                    "en": {"title": "German", "description": "Native speaker with excellent communication and writing skills."},
+                    "de": {"title": "Deutsch", "description": "Muttersprachler mit excellenten Kommunikations- und Schreibskills."}
+                }
+            },
+
+            {
+                "imageIconUrl": "images/flags/en.png",
+                "faIcon": null,
+                "value": 90,
+                "locales": {
+                    "en": {"title": "English", "description": "Fluent in both spoken and written Spanish; confident in professional communication."},
+                    "de": {"title": "Englisch", "description": "C1 level."}
+                }
+            },
+
+            {
+                "imageIconUrl": "images/flags/in.png",
+                "faIcon": null,
+                "value": 20,
+                "locales": {
+                    "en": {"title": "Indonesian", "description": "Starting to learn Indonesian."},
+                    "de": {"title": "Indonesisch", "description": "Anfänger Level in Indonesisch."}
+                }
+            }
+        ],
+
+        "extra": [
+            {
+                "imageIconUrl": null,
+                "faIcon": null,
+                "value": null,
+                "locales": {
+                    "en": {"title": "Project Management", "description": "Knowledge and experience in project planning, processes, and project work."},
+                    "de": {"title": "Projektmanagement", "description": "Kenntnisse und Erfahung in Projektplanung, Abläufen und Projektarbeit."}
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": null,
+                "value": null,
+                "locales": {
+                    "en": {"title": "Full-Stack Developer", "description": "Knowledge of all part of Web Development, be it Front-End, Backend oder Business Logic."},
+                    "de": {"title": "Full-Stack Entwickler", "description": "Wissen in allen Teilen der Webentwicklung, sei es Front-End, Backend oder Businesslogik."}
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": null,
+                "value": null,
+                "locales": {
+                    "en": {"title": "Front-End Development", "description": "Able to code in SAPUI5, VueJS, und TypeScript."},
+                    "de": {"title": "Front-End Entwicklung", "description": "Erstellen von Webseiten in SAPUI5, Vue.js und TypeScript."}
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": null,
+                "value": null,
+                "locales": {
+                    "en": {"title": "Information Visualization", "description": "Able to transform complex data into clear visuals."},
+                    "de": {"title": "Visualisierung", "description": ""}
+                }
+            }
+        ]
+
+    }
+}
