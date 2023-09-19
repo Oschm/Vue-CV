@@ -7,7 +7,7 @@ import {useData} from "./composables/data.js"
 import {useLanguage} from "./composables/language.js"
 import {useNavigation} from "./composables/navigation.js"
 import {createAppRouter} from "./router/router.js"
-import {createApp} from "vue/dist/vue.esm-bundler"
+import {createApp} from "vue"
 import App from './vue/core/App.vue'
 
 const data = useData()
