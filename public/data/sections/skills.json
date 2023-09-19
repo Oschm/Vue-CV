@@ -50,7 +50,7 @@
             "faIcon": "fa fa-marker",
             "locales": {
                 "en": {"title": "Bonus Skills"},
-                "es": {"title": "Bonus Skills"}
+                "de": {"title": "Bonus Skills"}
             }
         }
     ],
@@ -64,11 +64,11 @@
                 "locales": {
                     "en": {
                         "title": "Back-End Development",
-                        "description": "Rich Experience working with and creating APIs, Databases and business logic"
+                        "description": "Rich Experience working with and creating APIs, Databases and business logic."
                     },
                     "de": {
                         "title": "Back-End Development",
-                        "description": "Reicher Erfahrungsschatz mit APIs, Datenbanken und Ímplementierung von Businesslogik"
+                        "description": "Reicher Erfahrungsschatz mit APIs, Datenbanken und Ímplementierung von Businesslogik."
                     }
                 }
             },
@@ -83,7 +83,7 @@
                     },
                     "de": {
                         "title": "Front-End Entwicklung",
-                        "description": "Highly skilled at creating intuitive User Experiences mit SAPUI5 und Vue.js."
+                        "description": "Hochqualifiziert in der Erstellung intuitiver Benutzererfahrungen mit SAPUI5 und Vue.js."
                     }
                 }
             },
@@ -99,7 +99,7 @@
                     },
                     "de": {
                         "title": "Cloud Development",
-                        "description": "Management von Cloud Platformen und Entwicklungen Cloud-basierter Anwendungen"
+                        "description": "Management von Cloud Platformen und Entwicklungen Cloud-basierter Anwendungen."
                     }
                 }
             },
@@ -189,7 +189,7 @@
                 "value": 90,
                 "locales": {
                     "en": {"title": "Relational Databases", "description": "Experience Time: 6 years"},
-                    "es": {"title": "Relationale Datenbanken", "description": "Experiencia: 6 Jahre"}
+                    "de": {"title": "Relationale Datenbanken", "description": "Erfahrung: 6 Jahre"}
                 }
             },
 
@@ -199,7 +199,7 @@
                 "value": 65,
                 "locales": {
                     "en": {"title": "Sass/Less", "description": "Experience Time: 2 years"},
-                    "es": {"title": "Sass/Less", "description": "Experiencia: 2 Jahre"}
+                    "de": {"title": "Sass/Less", "description": "Erfahrung: 2 Jahre"}
                 }
             },
 
@@ -209,7 +209,7 @@
                 "value": 30,
                 "locales": {
                     "en": {"title": "Machine Learning", "description": "Machine Learning Online Course: 1 year"},
-                    "es": {"title": "Machine Learning", "description": "Machine Learning Online Kurs: 1 Jahr"}
+                    "de": {"title": "Machine Learning", "description": "Machine Learning Online Kurs: 1 Jahr"}
                 }
             }
         ],
@@ -221,7 +221,7 @@
                 "value": 100,
                 "locales": {
                     "en": {"title": "German", "description": "Native speaker with excellent communication and writing skills."},
-                    "es": {"title": "Deutsch", "description": "Muttersprachler mit excellenten Kommunikations- und Schreibskills."}
+                    "de": {"title": "Deutsch", "description": "Muttersprachler mit excellenten Kommunikations- und Schreibskills."}
                 }
             },
 
@@ -231,7 +231,7 @@
                 "value": 90,
                 "locales": {
                     "en": {"title": "English", "description": "Fluent in both spoken and written Spanish; confident in professional communication."},
-                    "es": {"title": "Englisch", "description": "C1 level."}
+                    "de": {"title": "Englisch", "description": "C1 level."}
                 }
             },
 
@@ -241,7 +241,7 @@
                 "value": 20,
                 "locales": {
                     "en": {"title": "Indonesian", "description": "Starting to learn Indonesian."},
-                    "es": {"title": "Indonesisch", "description": "Anfänger Level in Indonesisch."}
+                    "de": {"title": "Indonesisch", "description": "Anfänger Level in Indonesisch."}
                 }
             }
         ],
@@ -252,8 +252,8 @@
                 "faIcon": null,
                 "value": null,
                 "locales": {
-                    "en": {"title": "Project Management", "description": "Kentnisse und Erfehung in Projektplanung, Abläufen und "},
-                    "de": {"title": "Projektmanagement", "description": "Capaz de diseñar interfaces de usuario intuitivas y visualmente atractivas para interacciones de usuario fluidas."}
+                    "en": {"title": "Project Management", "description": "Knowledge and experience in project planning, processes, and project work."},
+                    "de": {"title": "Projektmanagement", "description": "Kenntnisse und Erfahung in Projektplanung, Abläufen und Projektarbeit."}
                 }
             },
             {
@@ -261,10 +261,17 @@
                 "faIcon": null,
                 "value": null,
                 "locales": {
-                    "en": {"title": "Front-End Development", "description": "Able to code in VueJS, React JS, Swift, AngularJS and TypeScript."},
-                    "es": {"title": "Desarrollo Front-End", "description": "Capaz de codificar en VueJS, AngularJS y TypeScript."},
-                    "fr": {"title": "Développement Front-End", "description": "Capable de coder en VueJS, AngularJS et TypeScript."},
-                    "zh": {"title": "前端开发", "description": "能够编写VueJS、AngularJS和TypeScript代码。"}
+                    "en": {"title": "Full-Stack Developer", "description": "Knowledge of all part of Web Development, be it Front-End, Backend oder Business Logic."},
+                    "de": {"title": "Full-Stack Entwickler", "description": "Wissen in allen Teilen der Webentwicklung, sei es Front-End, Backend oder Businesslogik."}
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": null,
+                "value": null,
+                "locales": {
+                    "en": {"title": "Front-End Development", "description": "Able to code in SAPUI5, VueJS, und TypeScript."},
+                    "de": {"title": "Front-End Entwicklung", "description": "Erstellen von Webseiten in SAPUI5, Vue.js und TypeScript."}
                 }
             },
             {
@@ -273,42 +280,7 @@
                 "value": null,
                 "locales": {
                     "en": {"title": "Information Visualization", "description": "Able to transform complex data into clear visuals."},
-                    "es": {"title": "Visualización de Información", "description": "Capaz de transformar datos complejos en visuales claros."},
-                    "fr": {"title": "Visualisation de l'Information", "description": "Capable de transformer des données complexes en visuels clairs."},
-                    "zh": {"title": "信息可视化", "description": "能够将复杂的数据转化为清晰的可视化图表。"}
-                }
-            },
-            {
-                "imageIconUrl": null,
-                "faIcon": null,
-                "value": null,
-                "locales": {
-                    "en": {"title": "Accessibility and Inclusive Design", "description": "Able to create digital experiences that are accessible to all."},
-                    "es": {"title": "Accesibilidad y Diseño Inclusivo", "description": "Capaz de crear experiencias digitales accesibles para todos."},
-                    "fr": {"title": "Accessibilité et Design Inclusif", "description": "Capable de créer des expériences numériques accessibles à tous."},
-                    "zh": {"title": "可访问性和包容性设计", "description": "能够创建面向所有人的数字体验。"}
-                }
-            },
-            {
-                "imageIconUrl": null,
-                "faIcon": null,
-                "value": null,
-                "locales": {
-                    "en": {"title": "User-Centric Data Analysis", "description": "Proficient in analyzing data with a focus on the needs and preferences of users, enabling data-driven decisions that align with user expectations."},
-                    "es": {"title": "Análisis de Datos Centrado en el Usuario", "description": "Competente en analizar datos con un enfoque en las necesidades y preferencias de los usuarios, lo que permite tomar decisiones basadas en datos que se alinean con las expectativas de los usuarios."},
-                    "fr": {"title": "Analyse de Données Axée sur l'Utilisateur", "description": "Compétent dans l'analyse de données axée sur les besoins et préférences des utilisateurs, permettant des décisions basées sur les données qui sont en accord avec les attentes des utilisateurs."},
-                    "zh": {"title": "以用户为中心的数据分析", "description": "熟练分析数据，专注于用户的需求和偏好，实现与用户期望相符的基于数据的决策。"}
-                }
-            },
-            {
-                "imageIconUrl": null,
-                "faIcon": null,
-                "value": null,
-                "locales": {
-                    "en": {"title": "Mobile App User Experience", "description": "Skilled in crafting user-centered experiences within mobile applications, ensuring smooth and intuitive interactions."},
-                    "es": {"title": "Experiencia de Usuario en Aplicaciones Móviles", "description": "Experto en crear experiencias centradas en el usuario en aplicaciones móviles, garantizando interacciones fluidas e intuitivas."},
-                    "fr": {"title": "Expérience Utilisateur d'Applications Mobiles", "description": "Compétent dans la création d'expériences centrées sur l'utilisateur au sein des applications mobiles, garantissant des interactions fluides et intuitives."},
-                    "zh": {"title": "移动应用用户体验", "description": "擅长在移动应用中打造以用户为中心的体验，确保流畅而直观的交互。"}
+                    "de": {"title": "Visualisierung", "description": ""}
                 }
             }
         ]

@@ -195,11 +195,11 @@
                     "locales": {
                         "en": {
                             "title": "Cloud Platforms",
-                            "description": "Experience with the Setup, Maintenance und Developments on Cloud Platforms"
+                            "description": "Experience with the Setup, Maintenance und Developments on Cloud Platforms."
                         },
                         "de": {
                             "title": "Cloud Platformen",
-                            "description": "Erfahrung mit dem Setup, Maintenance und Entwicklung auf Cloud Platformen"
+                            "description": "Erfahrung mit dem Setup, Maintenance und Entwicklung auf Cloud Platformen."
                         }
                     }
                 },
