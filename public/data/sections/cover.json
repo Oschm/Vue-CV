@@ -209,12 +209,12 @@
                     "value": null,
                     "locales": {
                         "en": {
-                            "title": "Continuous integration and continuous delivery",
-                            "description": "Experience with CI/CO pipelines"
+                            "title": "Continuous integration and continuous delivery.",
+                            "description": "Experience with CI/CD pipelines"
                         },
                         "de": {
-                            "title": "Continuous integration und continuous delivery",
-                            "description": "Erfahrung mit CI/CO Pipelines"
+                            "title": "Continuous integration und continuous delivery.",
+                            "description": "Erfahrung mit CI/CD Pipelines"
                         }
                     }
                 }
