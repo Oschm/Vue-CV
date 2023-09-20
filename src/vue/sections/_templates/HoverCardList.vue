@@ -1,5 +1,5 @@
 <template>
-  <div class="card-row">
+  <div class="card-row" ref="cardList">
     <div
       v-for="(card, index) in items"
       :key="index"
@@ -51,6 +51,12 @@ const isSelected = function (cardIndex) {
   align-items: left;
   width: 100%;
   height: 500px;
+}
+/* Adjust card layout for smaller screens */
+@media (max-width: 768px) {
+  .card-row {
+    justify-content: center; /* Center cards on smaller screens */
+  }
 }
 .card {
   position: relative;

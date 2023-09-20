@@ -20,7 +20,8 @@
       v-for="subcategory in props.sectionData.content['skillsOverview'][
         'subcategories'
       ]"
-      class="col-12 subcategory-col"
+      class="col-12 subcategory-col responsive-height"
+      :style="{ minHeight: subcategoryHeight + 'px' }"
     >
       <!-- Subcategory Title -->
       <SubHeading
@@ -48,6 +49,7 @@ import HoverCardList from "../_templates/HoverCardList.vue";
 
 const data = useData();
 const navigation = useNavigation();
+var subcategoryHeight = 0;
 
 /**
  * @param subcategory
@@ -58,6 +60,11 @@ const _fetchAndParseItemsFor = (subcategory) => {
   const items =
     props.sectionData["content"]["skillsOverview"]["items"][subcategory["id"]];
   return items;
+};
+
+const updateSubcategoryHeight = (height) => {
+  // Update the subcategoryHeight with the new height from HoverCardList
+  this.subcategoryHeight = height;
 };
 
 /**
@@ -108,5 +115,21 @@ const coverTitle = computed(() => {
       ),
     )
   );
+}
+
+.responsive-height {
+  /* Media query for medium screens (e.g., tablets) */
+  @media (min-width: 1195px) and (max-width: 1769px) {
+    height: 1000px;
+  }
+  /* Media query for medium screens (e.g., tablets) */
+  @media (min-width: 559px) and (max-width: 1195px) {
+    height: 1300px;
+  }
+
+  /* Media query for large screens (e.g., desktops) */
+  @media (max-width: 558px) {
+    height: 2100px;
+  }
 }
 </style>
