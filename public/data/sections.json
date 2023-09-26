@@ -77,14 +77,6 @@
             "component": "ContactSection",
             "jsonPath": "data/sections/contact.json",
             "faIcon": "fa-solid fa-pen-to-square"
-        },
-
-        {
-            "id": "test",
-            "categoryId": "more",
-            "component": "TestSection",
-            "jsonPath": "data/sections/test.json",
-            "faIcon": "fa-solid fa-pen-to-square"
         }
     ]
 }
