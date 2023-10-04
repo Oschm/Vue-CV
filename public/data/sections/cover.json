@@ -8,7 +8,7 @@
         "de": {
             "welcome": "Willkommen zu meinem <span class='text-primary'>Lebenslauf!</span>",
             "welcomeShort": "Willkommen!",
-            "bio": "5 Jahre Erfahrung als Full-Stack Entwickler und Berater geben mir das Wissen um zum Erfolg Ihres Unternehmens beizutragen."
+            "bio": "5 Jahre Erfahrung als Full-Stack Entwickler und Berater geben mir das Wissen, um zum Erfolg Ihres Unternehmens beizutragen."
         }
     },
     "items": {
@@ -58,7 +58,7 @@
                         "title": "Softskills"
                     },
                     "de": {
-                        "title": "Softskills"
+                        "title": "Soft Skills"
                     }
                 }
             }
@@ -77,7 +77,7 @@
                         },
                         "de": {
                             "title": "Teamfähigkeit",
-                            "description": "Arbeitet in jeder position eines Teams."
+                            "description": "Arbeitet in jeder Position eines Teams."
                         }
                     }
                 },
@@ -107,7 +107,7 @@
                         },
                         "de": {
                             "title": "Googlen",
-                            "description": "Googlen und verfizieren von Internet Ressourcen."
+                            "description": "Googlen und verfizieren von Internetressourcen."
                         }
                     }
                 },
@@ -149,11 +149,11 @@
                     "value": null,
                     "locales": {
                         "en": {
-                            "title": "Backened",
+                            "title": "Backend",
                             "description": "Worked with Open Source and SAP Backend Technologies."
                         },
                         "de": {
-                            "title": "Backened",
+                            "title": "Backend",
                             "description": "Erfahrung mit Open Source und SAP Backend Technologien."
                         }
                     }
@@ -169,7 +169,7 @@
                         },
                         "de": {
                             "title": "Frontend",
-                            "description": "Frontend Technologies wie Vue.js, SAPUI5 and Angular."
+                            "description": "Frontend Technologien wie Vue.js, SAPUI5 and Angular."
                         }
                     }
                 },
@@ -180,11 +180,11 @@
                     "locales": {
                         "en": {
                             "title": "Databases",
-                            "description": "Relationale and NO-SQL Datenbanken."
+                            "description": "Relational and NO-SQL Databases."
                         },
                         "de": {
                             "title": "Datenbanken",
-                            "description": "Relational und No-SQL Datenbanken."
+                            "description": "Relationale und No-SQL Datenbanken."
                         }
                     }
                 },

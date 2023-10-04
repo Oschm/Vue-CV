@@ -230,7 +230,7 @@
                 "faIcon": null,
                 "value": 90,
                 "locales": {
-                    "en": {"title": "English", "description": "Fluent in both spoken and written Spanish; confident in professional communication."},
+                    "en": {"title": "English", "description": "Fluent in both spoken and written english; confident in professional communication."},
                     "de": {"title": "Englisch", "description": "C1 level."}
                 }
             },

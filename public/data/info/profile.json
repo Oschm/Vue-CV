@@ -4,11 +4,11 @@
     "locales": {
         "en": {
             "credits": "Website by <strong><a class='light' href='https://github.com/Oschm'>Oliver Schmidt</a></strong>, based on project by <strong><a class='light' href='https://github.com/ryanbalieiro/vue-resume-template'>Ryan Balieiro</a></strong>, extended with own ideas",
-            "role": "Fullstack Entwickler"
+            "role": "Full Stack Developer"
         },
         "de": {
             "credits": "Website erstellt von <strong><a class='light' href='https://github.com/Oschm'>Oliver Schmidt</a></strong>, basierend auf Projekt von <strong><a class='light' href='https://github.com/ryanbalieiro/vue-resume-template'>Ryan Balieiro</a></strong>, erweitert mit eigenen Ideen</a></strong>",
-            "role": "Fullstack Entwickler"
+            "role": "Full Stack Entwickler"
         }
     },
     "contact": {
