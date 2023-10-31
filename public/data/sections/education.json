@@ -19,12 +19,12 @@
             ],
             "locales": {
                 "en": {
-                    "title": "A-levels at Willy-Graf-Gymnasium",
+                    "title": "A-levels at Willi-Graf-Gymnasium",
                     "description": "High school with elective courses in Mathematics and Physics, and European branch."
                 },
                 "de": {
-                    "title": "Abitur am Willy-Graf-Gymnasium",
-                    "description": "Gymnasium mit Wahlfächern Mahte und Physik und Europäischer Zweig."
+                    "title": "Abitur am Willi-Graf-Gymnasium",
+                    "description": "Gymnasium mit Wahlfächern Mathe und Physik und Europäischer Zweig."
                 }
             }
         },

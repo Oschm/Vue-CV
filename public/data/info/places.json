@@ -24,7 +24,7 @@
         "faIcon": "fab fa-apple",
         "locales": {
             "en": {
-                "name": "Apple Inc."
+                "name": "NTT DATA Business Solutions"
             }
         }
     },
@@ -47,10 +47,10 @@
         "faIcon": "fas fa-university",
         "locales": {
             "de": {
-                "name": "Willy-Graf-Gymnasium"
+                "name": "Willi-Graf-Gymnasium"
             },
             "en": {
-                "name": "Willy-Graf High School"
+                "name": "Willi-Graf High School"
             }
         }
     }

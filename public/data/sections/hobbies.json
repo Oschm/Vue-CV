@@ -102,7 +102,7 @@
                 "value": null,
                 "locales": {
                     "en": {"title": "Programming", "description": "Exploring code, algorithms, and building software solutions for real-world challenges."},
-                    "de": {"title": "Programmieren", "description": "Explorar código, algoritmos y desarrollar soluciones de software para desafíos del mundo real."}
+                    "de": {"title": "Programmieren", "description": "Programmiersprachen und Frameworks erkunden, Algorithmen entwickeln und Softwarelösungen für die Lösung von Herausforderungen erstellen."}
                 }
             },
 
@@ -121,7 +121,7 @@
                 "value": null,
                 "locales": {
                     "en": {"title": "Visual Arts", "description": "Exploring visual aesthetics, graphic design, and expressing ideas through artistic creativity."},
-                    "de": {"title": "Artes Visuales", "description": "Explorar la estética visual, el diseño gráfico y expresar ideas a través de la creatividad artística."}
+                    "de": {"title": "Visuelles Design", "description": "Die Erforschung visueller Ästhetik, Grafikdesign und die Ausdruck von Ideen durch künstlerische Kreativität."}
                 }
             }
         ]
