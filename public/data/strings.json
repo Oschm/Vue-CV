@@ -42,7 +42,11 @@
             "tags": "Tags",
             "tech": "Used technologies",
             "whereToFind": "Where to Find",
-            "whereToFindDescription": "${project} is available on the following platforms and services:"
+            "whereToFindDescription": "${project} is available on the following platforms and services:",
+            "grossIncome": "taxable Income:",
+            "calculateIncomeTax": "CALCULATE",
+            "taxServiceError": "Error calling Backend. Please try again later.",
+            "taxServiceResult": "The income tax to be paid:  "
         },
         "de": {
             "about": "Home",
@@ -80,13 +84,17 @@
             "rookie": "Neuling",
             "sendMessage": "Nachricht senden",
             "sendingMessage": "Senden",
-            "showcase": "Präsentation",
+            "showcase": "Showcase",
             "skills": "Fähigkeiten",
             "subject": "Betreff",
             "tags": "Schlagwörter",
             "tech": "Verwendete Technologien",
             "whereToFind": "Wo finden Sie es",
-            "whereToFindDescription": "${project} ist auf den folgenden Plattformen und Diensten verfügbar:"
+            "whereToFindDescription": "${project} ist auf den folgenden Plattformen und Diensten verfügbar:",
+            "grossIncome": "zu versteuerndes Einkommen (zvE):",
+            "calculateIncomeTax": "BERECHNEN",
+            "taxServiceError": "Fehler beim Ansprechen des Backends. Bitte versuchen Sie es später erneut.",
+            "taxServiceResult": "Die zu zahlende Einkommenssteuer ist:  "
         }
 
         

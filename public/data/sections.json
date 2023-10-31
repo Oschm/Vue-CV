@@ -77,6 +77,14 @@
             "component": "ContactSection",
             "jsonPath": "data/sections/contact.json",
             "faIcon": "fa-solid fa-pen-to-square"
+        },
+
+        {
+            "id": "showcase",
+            "categoryId": "more",
+            "component": "ShowcaseSection",
+            "jsonPath": "data/sections/showcase.json",
+            "faIcon": "fa-solid fa-code"
         }
     ]
 }

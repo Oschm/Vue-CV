@@ -1,0 +1,17 @@
+{
+    "locales": {
+        "en": {
+            "title": "<span class='text-primary'>Showcase</span>",
+            "description": "Collection of showcases",
+            "subtitle": "Income Tax Calculator 2023",
+            "subtitleDescription": "By Inputting the gross income and clicking on the calculate Button a backend COBOL Skript will calculate the income tax for singles for the year 2023. This project is a proof of concept to publish COBOL business logic through a NodeJS API. The Project can be found in this <a href=\"https://github.com/Oschm/BackendIncomeTaxInCobol\">Github Repo</a>."
+        },
+        "de": {
+            "title": "<span class='text-primary'>Showcase</span>",
+            "description": "Sammlung von Showcases",
+            "subtitle": "Einkommensteuerrechner 2023",
+            "subtitleDescription": "Durch Eingabe des Bruttoeinkommens wird im Backend durch ein COBOL Skript die Einkommensteuer für alleinstehende 2023 berechnet. Diese Projekt ist ein Proof of Concept um minimale COBOL Logik durch eine NodeJS API zugänglich zu machen. Projekt einsehbar im <a href=\"https://github.com/Oschm/BackendIncomeTaxInCobol\">Github Repo</a>."
+        }
+    },
+    "items": {"grossIncome": "10000.00","previousValue": "10000.00", "result":""}
+}

@@ -47,6 +47,7 @@ import ThreadsSection from "../sections/threads/ThreadsSection.vue";
 import TimelineSection from "../sections/timeline/TimelineSection.vue";
 import ProjectSection from "../sections/timeline/ProjectSection.vue";
 import TestSection from "../sections/test/TestSection.vue";
+import ShowcaseSection from "../sections/showcase/ShowcaseSection.vue";
 
 const data = useData();
 const navigation = useNavigation();
@@ -70,6 +71,7 @@ const SECTION_VUE_COMPONENTS = {
   TimelineSection,
   TestSection,
   ProjectSection,
+  ShowcaseSection,
 };
 
 /**
