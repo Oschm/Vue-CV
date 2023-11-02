@@ -13,7 +13,7 @@
       <div class="form-group input-group">
         <div class="form-label">{{ data.getString("grossIncome") }}</div>
         <input
-          class="form-control-income"
+          class="form-control-income input-responsive"
           id="form-income"
           type="text"
           v-model="props.sectionData['content']['items'].grossIncome"
@@ -23,7 +23,7 @@
         <div class="form-label">€</div>
       </div>
       <!-- Bottom Column -->
-      <div class="button-container">
+      <div class="button-container col-12 text-center mt-3 mt-lg-4">
         <button
           class="btn btn-primary btn-xl"
           type="submit"
@@ -170,7 +170,18 @@ const onlyForCurrency = ($event, props) => {
   font-weight: bold;
 }
 .button-container {
-  text-align: right; /* Right-align the button */
-  margin-top: 10px;
+}
+.input-responsive {
+  /* Media query for medium screens (e.g., tablets) */
+  @media (min-width: 1195px) and (max-width: 1769px) {
+    min-width: 90px;
+  }
+  /* Media query for medium screens (e.g., tablets) */
+  @media (min-width: 559px) and (max-width: 1195px) {
+  }
+
+  /* Media query for large screens (e.g., desktops) */
+  @media (max-width: 558px) {
+  }
 }
 </style>

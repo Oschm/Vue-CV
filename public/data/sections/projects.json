@@ -21,7 +21,7 @@
                 "en": {
                     "branch": "Mechanical Engineering",
                     "title": "Implementation of ABAP SD reports for the customer order management.",
-                    "description": "Kommunikation with mutliple Customers about the refinement of Specifiction, Estimation, Implementation and Testing.",
+                    "description": "Communikation with mutliple Customers about the refinement of Specification, Estimation, Implementation and Testing.",
                     "tech": "ABAP OO, CDS Views, Fiori Launchpad"
                 },
                 "de": {
@@ -43,7 +43,7 @@
                 "en": {
                     "branch": "Finance",
                     "title": "Maintenance and Extension of SDI-KPI-Projekts.",
-                    "description": "Kommunikation with mutliple Customers about the refinement of Specifiction, Estimation, Implementation and Testing.",
+                    "description": "Communikation with mutliple Customers about the refinement of Specification, Estimation, Implementation and Testing.",
                     "tech":"SAP HANA, SAP SDI, SAPUI5"
                 },
                 "de": {

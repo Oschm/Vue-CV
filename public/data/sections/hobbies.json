@@ -111,7 +111,7 @@
                 "faIcon": "fas fa-music",
                 "value": null,
                 "locales": {
-                    "en": {"title": "Music", "description": "Playing guitar, making music with Friends, and listening to music."},
+                    "en": {"title": "Music", "description": "Playing guitar, making music with friends, and listening to music."},
                     "de": {"title": "Musik", "description": "Gitarre spielen, mit Freunden Musik machen und Musik hören."}
                 }
             },
